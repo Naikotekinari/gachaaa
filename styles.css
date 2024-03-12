@@ -48,13 +48,13 @@ li:last-child {
   opacity: 1;
 }
 
-div.navbar {
+div.scrollmenu {
   background-color: #4d96e4;
   overflow: scroll;
   white-space: nowrap;
 }
 
-div.navbar a {
+div.scrollmenu a {
   display: inline-block;
   color: red;
   text-align: center;
@@ -62,6 +62,6 @@ div.navbar a {
   text-decoration: none;
 }
 
-div.navbar a:hover {
+div.scrollmenu a:hover {
   background-color: purple;
 }
