@@ -48,13 +48,13 @@ li:last-child {
   opacity: 1;
 }
 
-#navbar {
+div.navbar {
   background-color: #4d96e4;
   overflow: scroll;
   white-space: nowrap;
 }
 
-#navbar a {
+div.navbar a {
   display: inline-block;
   color: red;
   text-align: center;
@@ -62,6 +62,6 @@ li:last-child {
   text-decoration: none;
 }
 
-#navbar a:hover {
+div.navbar a:hover {
   background-color: purple;
 }
