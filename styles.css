@@ -52,6 +52,7 @@ li:last-child {
   background-color: #4d96e4;
   overflow: auto;
   white-space: nowrap;
+  padding-bottom: 10px;
 }
 
 #navbar a {
