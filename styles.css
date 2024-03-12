@@ -11,6 +11,7 @@ ul {
   max-height: 100px;
   height: 90px;
   width: 100%;
+  overflow: scroll;
 }
 
 li {
