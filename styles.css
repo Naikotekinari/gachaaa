@@ -11,7 +11,6 @@ ul {
   max-height: 100px;
   height: 90px;
   width: 100%;
-  overflow: scroll;
 }
 
 li {
@@ -49,13 +48,13 @@ li:last-child {
   opacity: 1;
 }
 
-div.scrollmenu {
+#navbar {
   background-color: #4d96e4;
   overflow: auto;
   white-space: nowrap;
 }
 
-div.scrollmenu a {
+#navbar a {
   display: inline-block;
   color: red;
   text-align: center;
@@ -63,6 +62,6 @@ div.scrollmenu a {
   text-decoration: none;
 }
 
-div.scrollmenu a:hover {
+#navbar a:hover {
   background-color: purple;
 }
