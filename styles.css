@@ -50,7 +50,7 @@ li:last-child {
 
 div.scrollmenu {
   background-color: #4d96e4;
-  overflow: scroll;
+  overflow: auto;
   white-space: nowrap;
 }
 
